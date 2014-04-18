@@ -1,3 +1,12 @@
+FOR ALL THOSE FOLKS WITH OPEN PRS
+=================================
+
+Some of the gang is working on a fancy website that's going to make managing members a lot simpler, so I won't be merging your PR's, in leiu of getting that site working instead.
+
+However, just because your name isn't on the rolls, don't be afraid to come hang out with us in #lpmc on freenode, or in /r/lpmc on reddit!
+
+We look forward to seeing you there!
+
 Standards and Practices
 =======================
 
