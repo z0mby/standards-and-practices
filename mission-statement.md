@@ -9,17 +9,17 @@ rejection and ridicule, where a new FOSS contributor can experiment, learn, and
 
 Too often, FOSS projects -- due to factors primarily of time and grumpiness of the
 maintainer -- tend to reject excited new contributors out of hand because their
-code does not meet standards. It's not wrong that they do this, their intent is
+code does not meet standards. It's not wrong that they do this; their intent is
 to maintain a good application (an effort which should be lauded), not to teach
 the new contributor how to write good code. To that effect, the LearnProgramming
-Mentoring Community hopes to, in effect, provide a service -- teaching it's
+Mentoring Community hopes to, in effect, provide a service -- teaching its
 members how to do things 'The Right Way'(tm) with everything from crafting a
 good Pull Request to ensuring code is properly tested, documented, and --
 crucially, well written.
 
 To do this, the LearnProgramming Mentoring Community aims to provide high
 quality tutorials, discussion arenas (including IRC, forums, etc); as well as
-'hackable' projects for new contributors to work on. It's core promise is that
+'hackable' projects for new contributors to work on. Its core promise is that
 every pull request rejected is rejected with a clear reason, and where
 appropriate, suggestions on how to make that request better.
 
