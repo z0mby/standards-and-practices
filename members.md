@@ -24,7 +24,7 @@
 | **Language** | **Mentor** | **Project** | **Notes** |
 |:-------------|:-----------|:------------|:----------|
 | C++ | [Jacob Gulotta](https://github.com/jgulotta) | [libastar](https://github.com/LearnProgramming/libastar) | A pluggable C++ library for executing the A* algorithm |
-| Python | [Chance Zibolski](https://github.com/ecnahc515) | [LPMCBot](https://github.com/LearnProgramming/LPMCBot) | Python IRC bot |
+| Python | [Chance Zibolski](https://github.com/ecnahc515) | [LPMCBot](https://github.com/ecnahc515/LPMCBot) | Python IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [LPMC-site](https://github.com/LearnProgramming/lpmc-site) | Rails site for the LPMC |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Percival](https://github.com/LearnProgramming/percival) | Ruby IRC bot |
 | Ruby | [Joe Fredette](https://github.com/jfredett) | [Hatter](https://github.com/LearnProgramming/Hatter) | Ruby CLI Email Client a la Mutt |
