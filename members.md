@@ -158,6 +158,7 @@ Format:
 | Joel Roggeman | [jroggeman](https://github.com/jroggeman) | I'm a computer science major who knows a good amount of Java, a fair amount of C, and tiny bits of various others.  I want to get better at programming, learn C#, get familiar with programming tools (git, makefiles, debugger, etc), and gain experience while contributing to FOSS. ||
 | John Moon | [jmoon90](https://github.com/jmoon90) | Entrepreneur looking to learn Ruby on Rails with a community.  |
 | John Ryder | [tokens](https://github.com/tokens) ||
+| John Manno | [z0mby](https://github.com/z0mby) | Experienced in Java and some knowledge of C++ |
 | Johnicholas Hines | [Johnicholas](https://github.com/Johnicholas) ||
 | Jonathan Means | [G01denW01f11](https://github.com/G01denW01f11) | Familiar with basics of Python |
 | Jonas Raedle | [Jonas-R](https://github.com/Jonas-R) ||
